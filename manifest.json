@@ -8,5 +8,6 @@
   "author": "Cadenza",
   "description": "Query local Spinoza RAG API and inject into character replies",
   "main": "spinoza-rag.js"
+  "url": "https://github.com/seelebrn/ST-Spin/"
   }
 ]
