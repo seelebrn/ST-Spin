@@ -1,10 +1,11 @@
 {
-  "display_name": "SpinoRag",
-  "name": "spinoza-rag",
-  "id": "spinoza-rag",
+  "display_name": "Spinoza RAG",
+  "loading_order": 10,
+  "dependencies": [],
+  "js": "spinoza-rag.js",
+  "css": "",
+  "author": "Your Name",
   "version": "1.0.0",
-  "title": "Spinoza RAG",
-  "author": "Cadenza",
-  "description": "Query local Spinoza RAG API and inject into character replies",
-  "main": "spinoza-rag.js"
+  "homePage": "https://github.com/your/spinoza-rag",
+  "auto_update": false
 }
