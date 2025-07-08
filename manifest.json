@@ -1,0 +1,9 @@
+{
+  "name": "spinoza-rag",
+  "id": "spinoza-rag",
+  "version": "1.0.0",
+  "title": "Spinoza RAG",
+  "author": "YourName",
+  "description": "Query local Spinoza RAG API and inject into character replies",
+  "main": "spinoza-rag.js"
+}
